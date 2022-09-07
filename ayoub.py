@@ -1,3 +1,3 @@
 import pygame
 
-x = 100
+x = 100_000
